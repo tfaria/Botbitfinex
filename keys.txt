@@ -1,0 +1,7 @@
+api_key=
+api_secret=
+btc_short=10
+btc_long=30
+time_interval=5
+btc_valor_cmp_vda=100
+btc_size_candle=50
